@@ -1,7 +1,7 @@
 {
-  "version": "1.0.118",
-  "notes": "CapitalPilot 1.0.118 — mise à jour publiée depuis la version validée.",
-  "package_url": "https://github.com/frankclement26-tech/CapitalPilot-updates/releases/download/v1.0.118/CapitalPilot-1.0.118-amd64.deb",
-  "sha256": "93dd50d32832ff1f571ad83a8f9067f24a57bd21b4f3b1ce94103b93265c929d",
+  "version": "1.0.119",
+  "notes": "CapitalPilot 1.0.119 — mise à jour publiée depuis la version validée.",
+  "package_url": "https://github.com/frankclement26-tech/CapitalPilot-updates/releases/download/v1.0.119/CapitalPilot-1.0.119-amd64.deb",
+  "sha256": "87fa11da1e84f05eba20f15424b31abd696e5b540982e0c6d039de13fd592127",
   "package_path": null
 }
